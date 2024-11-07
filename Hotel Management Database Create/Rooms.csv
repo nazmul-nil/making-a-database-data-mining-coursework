@@ -1,153 +1,153 @@
 RoomNumber,RoomType,RoomTypeLevel,PricePerNight
-801,Double,Superior Room,600
-802,Double,Deluxe Room,800
-803,Double,Standard,400
-804,Double,Standard,400
-805,Suite,Deluxe Room,800
-806,Suite,Standard,400
-807,Suite,Deluxe Room,800
-808,Single,Standard,400
-809,Single,Deluxe Room,800
-810,Single,Deluxe Room,800
-811,Single,Deluxe Room,800
-812,Suite,Deluxe Room,800
+801,Suite,Superior Room,600
+802,Suite,Superior Room,600
+803,Double,Deluxe Room,800
+804,Double,Deluxe Room,800
+805,Single,Deluxe Room,800
+806,Single,Deluxe Room,800
+807,Single,Standard,400
+808,Suite,Deluxe Room,800
+809,Suite,Superior Room,600
+810,Suite,Standard,400
+811,Double,Deluxe Room,800
+812,Single,Superior Room,600
 813,Single,Superior Room,600
-814,Double,Standard,400
-815,Double,Deluxe Room,800
-816,Suite,Deluxe Room,800
+814,Single,Superior Room,600
+815,Suite,Superior Room,600
+816,Suite,Standard,400
 817,Double,Superior Room,600
-818,Single,Superior Room,600
+818,Double,Standard,400
 819,Single,Deluxe Room,800
-701,Suite,Deluxe Room,800
-702,Suite,Deluxe Room,800
-703,Double,Standard,400
-704,Suite,Superior Room,600
-705,Suite,Standard,400
-706,Double,Standard,400
-707,Suite,Standard,400
-708,Suite,Deluxe Room,800
-709,Suite,Standard,400
-710,Suite,Deluxe Room,800
-711,Single,Standard,400
-712,Single,Standard,400
-713,Suite,Superior Room,600
-714,Double,Deluxe Room,800
-715,Double,Superior Room,600
-716,Single,Deluxe Room,800
-717,Single,Standard,400
-718,Single,Deluxe Room,800
-719,Double,Standard,400
-601,Double,Superior Room,600
-602,Double,Superior Room,600
-603,Single,Deluxe Room,800
-604,Single,Standard,400
-605,Double,Standard,400
+701,Suite,Standard,400
+702,Suite,Standard,400
+703,Double,Superior Room,600
+704,Single,Superior Room,600
+705,Double,Superior Room,600
+706,Double,Deluxe Room,800
+707,Suite,Superior Room,600
+708,Single,Standard,400
+709,Single,Superior Room,600
+710,Double,Superior Room,600
+711,Double,Standard,400
+712,Suite,Standard,400
+713,Single,Superior Room,600
+714,Suite,Standard,400
+715,Double,Standard,400
+716,Suite,Deluxe Room,800
+717,Suite,Superior Room,600
+718,Suite,Superior Room,600
+719,Suite,Deluxe Room,800
+601,Suite,Deluxe Room,800
+602,Single,Superior Room,600
+603,Double,Standard,400
+604,Double,Superior Room,600
+605,Single,Standard,400
 606,Double,Standard,400
-607,Double,Superior Room,600
-608,Double,Standard,400
-609,Double,Superior Room,600
-610,Single,Superior Room,600
-611,Single,Standard,400
-612,Suite,Superior Room,600
-613,Single,Deluxe Room,800
-614,Single,Standard,400
-615,Double,Deluxe Room,800
-616,Single,Superior Room,600
-617,Single,Standard,400
-618,Double,Deluxe Room,800
-619,Double,Deluxe Room,800
-501,Double,Superior Room,600
-502,Single,Standard,400
-503,Double,Superior Room,600
-504,Single,Standard,400
-505,Double,Superior Room,600
-506,Suite,Superior Room,600
-507,Double,Deluxe Room,800
-508,Suite,Superior Room,600
-509,Single,Superior Room,600
-510,Suite,Superior Room,600
-511,Suite,Deluxe Room,800
-512,Single,Superior Room,600
-513,Single,Standard,400
+607,Suite,Superior Room,600
+608,Double,Superior Room,600
+609,Suite,Superior Room,600
+610,Double,Superior Room,600
+611,Single,Deluxe Room,800
+612,Double,Deluxe Room,800
+613,Suite,Deluxe Room,800
+614,Double,Deluxe Room,800
+615,Single,Deluxe Room,800
+616,Suite,Standard,400
+617,Single,Superior Room,600
+618,Suite,Superior Room,600
+619,Double,Superior Room,600
+501,Single,Superior Room,600
+502,Double,Deluxe Room,800
+503,Suite,Deluxe Room,800
+504,Double,Deluxe Room,800
+505,Double,Deluxe Room,800
+506,Suite,Deluxe Room,800
+507,Double,Superior Room,600
+508,Single,Standard,400
+509,Suite,Superior Room,600
+510,Suite,Deluxe Room,800
+511,Double,Superior Room,600
+512,Double,Standard,400
+513,Double,Superior Room,600
 514,Suite,Standard,400
 515,Single,Standard,400
-516,Suite,Deluxe Room,800
-517,Single,Superior Room,600
-518,Suite,Standard,400
-519,Double,Deluxe Room,800
-401,Double,Executive Room,1000
+516,Double,Superior Room,600
+517,Single,Standard,400
+518,Single,Superior Room,600
+519,Double,Standard,400
+401,Double,Junior Suite,1200
 402,Double,Junior Suite,1200
-403,Double,Executive Room,1000
-404,Suite,Executive Room,1000
-405,Suite,Junior Suite,1200
-406,Single,Executive Room,1000
-407,Suite,Executive Room,1000
-408,Single,Executive Room,1000
-409,Suite,Junior Suite,1200
-410,Double,Junior Suite,1200
-411,Suite,Executive Room,1000
-412,Suite,Executive Room,1000
-413,Double,Junior Suite,1200
-414,Single,Junior Suite,1200
-415,Single,Executive Room,1000
-416,Double,Junior Suite,1200
-417,Single,Executive Room,1000
+403,Suite,Executive Room,1000
+404,Double,Executive Room,1000
+405,Single,Executive Room,1000
+406,Double,Junior Suite,1200
+407,Single,Junior Suite,1200
+408,Suite,Junior Suite,1200
+409,Single,Executive Room,1000
+410,Suite,Executive Room,1000
+411,Single,Executive Room,1000
+412,Double,Executive Room,1000
+413,Suite,Executive Room,1000
+414,Suite,Executive Room,1000
+415,Double,Junior Suite,1200
+416,Single,Junior Suite,1200
+417,Single,Junior Suite,1200
 418,Suite,Junior Suite,1200
-419,Suite,Executive Room,1000
-301,Single,Junior Suite,1200
-302,Double,Executive Room,1000
-303,Single,Junior Suite,1200
-304,Suite,Junior Suite,1200
-305,Double,Junior Suite,1200
-306,Single,Executive Room,1000
-307,Single,Executive Room,1000
-308,Suite,Executive Room,1000
-309,Double,Executive Room,1000
-310,Single,Executive Room,1000
-311,Suite,Executive Room,1000
+419,Single,Junior Suite,1200
+301,Double,Junior Suite,1200
+302,Suite,Junior Suite,1200
+303,Suite,Executive Room,1000
+304,Suite,Executive Room,1000
+305,Double,Executive Room,1000
+306,Double,Junior Suite,1200
+307,Double,Executive Room,1000
+308,Single,Executive Room,1000
+309,Suite,Junior Suite,1200
+310,Single,Junior Suite,1200
+311,Double,Executive Room,1000
 312,Double,Executive Room,1000
-313,Single,Junior Suite,1200
+313,Double,Junior Suite,1200
 314,Suite,Executive Room,1000
-315,Single,Executive Room,1000
-316,Double,Executive Room,1000
+315,Double,Junior Suite,1200
+316,Single,Junior Suite,1200
 317,Single,Executive Room,1000
-318,Double,Executive Room,1000
-319,Double,Executive Room,1000
-201,Suite,Suite,1500
+318,Suite,Junior Suite,1200
+319,Suite,Junior Suite,1200
+201,Double,Suite,1500
 202,Single,Penthouse Suite,1900
-203,Suite,Penthouse Suite,1900
-204,Single,Suite,1500
-205,Single,Suite,1500
-206,Single,Suite,1500
-207,Single,Suite,1500
-208,Suite,Penthouse Suite,1900
-209,Suite,Penthouse Suite,1900
-210,Single,Suite,1500
-211,Single,Suite,1500
-212,Suite,Penthouse Suite,1900
-213,Suite,Penthouse Suite,1900
-214,Double,Suite,1500
-215,Single,Suite,1500
-216,Single,Suite,1500
-217,Single,Penthouse Suite,1900
-218,Single,Penthouse Suite,1900
-219,Double,Suite,1500
-101,Suite,Suite,1500
-102,Single,Penthouse Suite,1900
-103,Double,Suite,1500
-104,Suite,Suite,1500
+203,Double,Suite,1500
+204,Suite,Penthouse Suite,1900
+205,Double,Penthouse Suite,1900
+206,Double,Suite,1500
+207,Double,Suite,1500
+208,Double,Suite,1500
+209,Single,Penthouse Suite,1900
+210,Single,Penthouse Suite,1900
+211,Double,Penthouse Suite,1900
+212,Single,Suite,1500
+213,Single,Suite,1500
+214,Single,Suite,1500
+215,Single,Penthouse Suite,1900
+216,Double,Suite,1500
+217,Suite,Penthouse Suite,1900
+218,Suite,Penthouse Suite,1900
+219,Suite,Penthouse Suite,1900
+101,Suite,Penthouse Suite,1900
+102,Suite,Suite,1500
+103,Suite,Suite,1500
+104,Single,Suite,1500
 105,Double,Penthouse Suite,1900
-106,Single,Suite,1500
-107,Double,Penthouse Suite,1900
-108,Single,Suite,1500
-109,Double,Penthouse Suite,1900
-110,Suite,Suite,1500
-111,Suite,Penthouse Suite,1900
-112,Double,Penthouse Suite,1900
-113,Double,Penthouse Suite,1900
-114,Single,Penthouse Suite,1900
-115,Double,Suite,1500
-116,Double,Suite,1500
-117,Double,Suite,1500
-118,Suite,Penthouse Suite,1900
-119,Single,Suite,1500
+106,Double,Suite,1500
+107,Suite,Penthouse Suite,1900
+108,Suite,Penthouse Suite,1900
+109,Double,Suite,1500
+110,Single,Penthouse Suite,1900
+111,Single,Suite,1500
+112,Single,Suite,1500
+113,Suite,Suite,1500
+114,Suite,Suite,1500
+115,Single,Penthouse Suite,1900
+116,Single,Penthouse Suite,1900
+117,Suite,Penthouse Suite,1900
+118,Suite,Suite,1500
+119,Double,Penthouse Suite,1900

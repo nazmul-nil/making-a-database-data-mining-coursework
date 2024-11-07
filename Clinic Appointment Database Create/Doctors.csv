@@ -1,11 +1,11 @@
 DoctorName,Position,Specialty
-Dr. Smith,Consultant,Orthopedics
-Dr. Johnson,Consultant,Oncology
-Dr. Williams,Locum GP,Orthopedics
-Dr. Jones,Locum GP,Neurology
-Dr. Brown,Medical Director,Orthopedics
-Dr. Davis,GP Partner,Psychiatry
-Dr. Miller,Clinical Lead,Oncology
-Dr. Wilson,Consultant,Emergency Medicine
-Dr. Moore,Salaried GP,Cardiology
-Dr. Taylor,GP Partner,Emergency Medicine
+Dr. Smith,Senior Consultant,Orthopedics
+Dr. Johnson,Medical Director,Psychiatry
+Dr. Williams,Locum GP,Pediatrics
+Dr. Jones,Clinical Lead,Emergency Medicine
+Dr. Brown,Senior Consultant,Emergency Medicine
+Dr. Davis,Locum GP,Oncology
+Dr. Miller,Salaried GP,General Medicine
+Dr. Wilson,Medical Director,Dermatology
+Dr. Moore,Medical Director,General Medicine
+Dr. Taylor,Consultant,Emergency Medicine
